@@ -1,6 +1,6 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gideon Dada
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olumide
 
-## Frontend developer and Designer
+## Frontend Developer and Designer
 
 I'm a web developer with 2+ years of Web development and design and education. I'm a problem solver and I love to learn new things.
 
